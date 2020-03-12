@@ -1,4 +1,5 @@
 # BolonLab
+### This code is associated with the paper from Flynn et al., "Comprehensive fitness maps of Hsp90 show widespread environmental dependence". eLife, 2020. http://dx.doi.org/10.7554/eLife.53810
 
 This is the pipeline used in the paper "Comprehensive fitness maps of Hsp90 show widespead envrionmental dependence."  It takes raw fastq files generated on Illumina deep sequencing platforms and counts Hsp90 alleles.
 
